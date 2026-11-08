@@ -1,0 +1,13 @@
+{
+  "appId": "com.batuhansenol.kingpuan",
+  "appName": "King & Rıfkı Skor Tablosu",
+  "webDir": "www",
+  "backgroundColor": "#1f5c45",
+  "android": {
+    "allowMixedContent": false
+  },
+  "ios": {
+    "contentInset": "never",
+    "backgroundColor": "#1f5c45"
+  }
+}

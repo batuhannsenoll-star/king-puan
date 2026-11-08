@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">King &amp; Rıfkı Skor Tablosu</string>
+    <string name="title_activity_main">King &amp; Rıfkı Skor Tablosu</string>
+    <string name="package_name">com.batuhansenol.kingpuan</string>
+    <string name="custom_url_scheme">com.batuhansenol.kingpuan</string>
+</resources>

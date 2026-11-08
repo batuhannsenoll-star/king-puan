@@ -1,0 +1,17 @@
+{
+  "name": "king-puan",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": { "assets": "capacitor-assets generate" },
+  "dependencies": {
+    "@capacitor/android": "8.5.3",
+    "@capacitor/core": "8.5.3",
+    "@capacitor/ios": "8.5.3"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "3.0.5",
+    "@capacitor/cli": "8.5.3",
+    "@fontsource/manrope": "5.2.5",
+    "@fontsource/young-serif": "5.2.5"
+  }
+}
